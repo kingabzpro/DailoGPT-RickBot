@@ -7,9 +7,6 @@ Discord bot using DailoGPT pretrained model on Rick& Morty Dataset from Kaggle
 - Add secret DISCORD_TOKEN
 - Run python `discord_bot.py`
 
-## For Complete Tutorial
-
-[![yt](https://img.youtube.com/vi/UjDpW_SOrlw/0.jpg)](https://www.youtube.com/watch?v=UjDpW_SOrlw)
 
 ![image](https://user-images.githubusercontent.com/36753484/131178260-87aa3b75-e38b-49dd-9e2a-0f6500ded929.png)
 
