@@ -1,10 +1,20 @@
 # DailoGPT-RickBot
 Discord bot using DailoGPT pretrained model on Rick& Morty Dataset from Kaggle
 
+## How to use it
+
+- Add secret HUGGINGFACE_TOKEN
+- Add secret DISCORD_TOKEN
+- Run python `discord_bot.py`
+
+## For Complete Tutorial
+
+[![yt](https://img.youtube.com/vi/UjDpW_SOrlw/0.jpg)](https://www.youtube.com/watch?v=UjDpW_SOrlw)
+
 ![image](https://user-images.githubusercontent.com/36753484/131178260-87aa3b75-e38b-49dd-9e2a-0f6500ded929.png)
 
 
-[![HF](https://img.shields.io/badge/huggingface-DialoGPT_small_Rick_Bot-ffbf00?logo=HF&style=for-the-badge)](https://huggingface.co/kingabzpro/DialoGPT-small-Rick-Bot/edit/main/README.md)
+[![HF](https://img.shields.io/badge/huggingface-DialoGPT_small_Rick_Bot-ffbf00?logo=HF&style=for-the-badge)](https://huggingface.co/kingabzpro/DialoGPT-small-Rick-Bot)
 
 ## Testing
 
