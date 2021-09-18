@@ -1,6 +1,8 @@
 # DailoGPT-RickBot
 Discord bot using DailoGPT pretrained model on Rick& Morty Dataset from Kaggle
 
+![screely-1631976179077](https://user-images.githubusercontent.com/36753484/133892671-380d2d65-e1e7-4f1b-94fd-a07579cf9ea8.png)
+
 ## How to use it
 
 - Add secret HUGGINGFACE_TOKEN
