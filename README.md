@@ -11,7 +11,7 @@ Discord bot using DailoGPT pretrained model on Rick& Morty Dataset from Kaggle
 ![image](https://user-images.githubusercontent.com/36753484/131178260-87aa3b75-e38b-49dd-9e2a-0f6500ded929.png)
 
 
-[![HF](https://img.shields.io/badge/huggingface-DialoGPT_small_Rick_Bot-ffbf00?logo=HF&style=for-the-badge)](https://huggingface.co/kingabzpro/DialoGPT-small-Rick-Bot)
+[![HF](https://img.shields.io/badge/huggingface-DialoGPT_small_Rick_Bot-ffbf00?logo=HF&style=for-the-badge)](https://huggingface.co/kingabzpro/DialoGPT-small-Rick-Bot) [![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/kingabzpro/DailoGPT-RickBot/blob/main/Training%20Model.ipynb)
 
 ## Testing
 
